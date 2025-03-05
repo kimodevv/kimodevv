@@ -5,4 +5,3 @@ I have a bit of experience with python but i am mainly going to be a front-end d
 
 "Don't be chosen. Be the one who gets to choose."
 -Yoichi Isagi
-
